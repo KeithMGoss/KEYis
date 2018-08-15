@@ -1,4 +1,4 @@
 # KEYis
-An Artificial Intelligence Program that runs an Insurance Company as a DAO
+An Artificial Intelligence Program that will eventually manage an Insurance Company as a DAO
 
 
